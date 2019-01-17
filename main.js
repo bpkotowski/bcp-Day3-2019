@@ -27,17 +27,18 @@ function sayHelllo() {
 sayHelllo;
 
 function evenOrodd() {
-   var input = document.getElementById('number');
+    var input = document.getElementById('number');
    
     var y = input.value;
-    
 
-  if(y % 2 === 0) {
+
+    if(y % 2 === 0) {
         console.log('even');
     }
-else {
-    console.log('odd');
+
+    else {
+        console.log('odd');
 }
 
 }
-;
+
