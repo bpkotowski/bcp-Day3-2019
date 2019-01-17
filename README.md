@@ -13,3 +13,5 @@ use ctrl+R to refresh pages in chrome
  returns a boolean
 
  1. % returns the remainder
+
+ 
